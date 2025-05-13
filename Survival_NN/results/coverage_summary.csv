@@ -1,0 +1,4 @@
+Method,Coverage Rate,Target Rate
+Initial Model,0.98,0.95
+Targeted Model,0.98,0.95
+Kaplan-Meier,1.0,0.95
