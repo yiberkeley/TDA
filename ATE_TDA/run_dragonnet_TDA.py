@@ -11,7 +11,7 @@ import multiprocessing
 from functools import partial
 
 # Import all needed functions from dragonnet_module
-from dragonnet_module import (
+from dragonnet_TDA import (
     gen_synthetic_data, 
     DragonNet,
     DragonTrainer,
