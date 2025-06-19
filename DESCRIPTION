@@ -1,0 +1,10 @@
+Package: TDA
+Type: Package
+Title: Targeted Deep Architecture
+Version: 0.1.0
+Author: Yi Li, David Mccoy, Nolan Gunter, Mark van der Laan
+Maintainer: Yi Li <yi_li@berkeley.edu>
+Description: This package showcases how to target machine learning architectures to have unbiased plug in estimates for the smooth functionals of interest.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
